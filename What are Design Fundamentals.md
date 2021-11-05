@@ -1,0 +1,45 @@
+### What are Design Fundamentals?
+
+
+
+Question can be very vage, like How would you design Uber? 
+
+Solution are more subjective, than Coding Interview, as it is objectively pass all test cases, or not [though one solution can perform better than the other.]
+
+
+
+#### Foundational Knowledge
+
+client server model, e.g. network protocol, how many machine communicate, ...
+
+
+
+#### Key Characteristics of System
+
+- Availability
+- Latency
+- Throughput
+- Redundancy
+- Latency
+
+
+
+#### Actual Component, More tangible things  [Key Components]
+
+- Load Balancer 
+- Proxy 
+- Cache 
+- Leader Selection, ... 
+
+
+
+#### Actual Tech [Real existing technology that you can used in the system]
+
+e.g. Zookeeper, Nginx, Redis, Kafka, Amazon S3, ...
+
+Use them to build your system
+
+
+
+
+
